@@ -1,0 +1,8 @@
+I used Python for this assignment.
+Python version: Python 3.5.2
+
+Execution Instructions for question1:
+python3 crc_checksum.py input_file
+
+Execution Instructions for question2:
+python3 hamming_code.py 
